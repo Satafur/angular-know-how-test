@@ -102,8 +102,7 @@ Por último, cree un boton que redirija  a la vista que muestra el resultado ubi
 
 [angularjs]: https://angularjs.org/
 [bower]: http://bower.io/
-[git]: https://git-scm.com/
-[http-server]: https://github.com/indexzero/http-server
+[git]: https://github.com/Satafur/angular-know-how-test
 [node]: https://nodejs.org/
 [npm]: https://www.npmjs.org/
 [local-app-url]: `localhost:8000/index.html`
