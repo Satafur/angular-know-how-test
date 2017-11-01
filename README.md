@@ -63,15 +63,15 @@ Instale alguno de los framworks CSS para desarrollo de aplicaciones web.  Puedes
 con la ayuda de `bower`.
 
 
-######NOTA: aplica alguna clase o etiqueta al modulo welcome para verificar la instalación.
+###### NOTA: aplica alguna clase o etiqueta al modulo welcome para verificar la instalación.
 
 
-##3. Consumir datos
+## 3. Consumir datos
 Modifique el modulo `welcome` como considere necesario para extraer los datos almacenados
 en el archivo `app/articulos.data.json` 
 
 
-##4. Visualizar datos
+## 4. Visualizar datos
 Modifique el nombre del modulo `welcome` por `articulos`.
 
 En el modulo `articulos` cree una vista que muestre ordenadamente los datos extraidos del archivo `app/articulos.data.json`.
@@ -83,12 +83,12 @@ Se quiere que el precio aparezca con dos decimales.
 Los articulos con `stock = 0` se deben visualizar pero estará deshabilitado.
 
 
-##5. Interactuar con los datos
+## 5. Interactuar con los datos
 Se requiere seleccionar alguna cantidad de un artículo que se encuentre disponible, es decir, con `stock != 0`.
 
 Dicha cantidad debe restarse al `stock` del artículo seleccionado.
 
-##6. Resultado
+## 6. Resultado
 Crear un modulo llamdo `total` en otro directorio dentro de `app/components`.
 
 Aplique lo necesario para que el modulo despliegue dentro de la aplicación. Verifique.
